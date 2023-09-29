@@ -7,9 +7,8 @@
 - Um pouco de tudo
 
 <div id="badges" align = "center">
-  <a href = "www.linkedin.com/in/mauricioittner">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logolinkedIn&logoColor=white alt="LinkedInBadge">
-  </a>
+  
+<a href="https://www.linkedin.com/in/mauricioittner"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 
 ---
