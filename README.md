@@ -26,3 +26,6 @@
 
 <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioIttner&show_icons=true&theme=tokyonight"/>
 <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=MauricioIttner&show_icons=true&theme=tokyonight"/>
+
+
+![Snake Animation](https://github.com/riversdiniz/Snake-Animation/blob/main/github-contribution-grid-snake.svg)
