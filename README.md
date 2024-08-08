@@ -3,7 +3,7 @@
 # Hi there 👋
  ### Não há tempo para pensar nos bugs, bora codar.
 
-- Estudante de Angular e Java
+- Estudante de Data Science com Python
 - Um pouco de tudo
 
 <div id="badges" align = "center">
@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 </div>
+
 
 ---
 
