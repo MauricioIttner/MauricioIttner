@@ -3,7 +3,7 @@
 # Hi there 👋
  ### Não há tempo para pensar nos bugs, bora codar.
 
-- Estudante de Angular e Java
+- Estudante de Data Science com Python
 - Um pouco de tudo
 
 <div id="badges" align = "center">
